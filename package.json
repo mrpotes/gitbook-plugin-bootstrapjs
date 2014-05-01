@@ -1,0 +1,30 @@
+{
+  "name": "gitbook-plugin-bootstrapjs",
+  "description": "Use the bootstrap javascript extensions",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/mrpotes/gitbook-plugin-bootstrapjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrpotes/gitbook-plugin-bootstrapjs.git"
+  },
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/mrpotes/gitbook-plugin-bootstrapjs/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "bootstrap"
+  ],
+  "author": "James Phillpotts <james.phillpotts@gmail.com> (http://github.com/mrpotes)"
+}
